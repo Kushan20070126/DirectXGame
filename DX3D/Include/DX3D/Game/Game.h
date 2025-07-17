@@ -13,6 +13,7 @@ namespace dx3d
 	
 
 	private:
+		Window * 
 		bool m_isRunning{ true };
 	};
 
